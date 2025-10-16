@@ -9,4 +9,4 @@ class MiriDiary(AbstractDiary):
         return "朝はご飯を食べた"
     
     def get_author(self):
-        return "あああああ"
+        return "pull自分でできるか試してます"
